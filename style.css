@@ -127,6 +127,10 @@ section{
     width: 190%;
 }
 
+.abuclr{
+    color: #FFA500;
+}
+
 .seceond-secs h1{
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
@@ -145,4 +149,130 @@ section{
     padding: 0px 30px 0px 150px;
     margin-left: 120px;
     margin-top: -10px;
+}
+
+.seceond-secscss{
+    display: flex;
+}
+
+.seceond-secscss img{
+    width: 70%;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.contentdivtwo{
+    width: 100%;
+}
+
+.contentdivtwo h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.contentdivtwo p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin-top: -20px;
+    margin-bottom: 40px;
+}
+
+.fifthsec{
+    display: flex;
+}
+
+section {
+    display: block;
+}
+
+.third-secs img{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.fifthdiv{
+    width: 50%;
+}
+
+.fifthdiv h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.fifthdiv p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin-top: -20px;
+    margin-bottom: 40px;
+}
+
+#divpadding{
+    padding-right: 60px;
+    margin-top: 90px;
+}
+.corona{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.newclr{
+    color: orange;
+}
+
+
+.fa {
+    color: black;
+    background-color: orange;
+    padding: 10px;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.reviewdiv{
+    display: flex;
+}
+
+  .reviewdiv img{
+    width: 100px;
+    padding-bottom: 15px;
+  }
+
+  .reviewdiv p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;     
+  }
+  .reviewdiv h4{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    margin-top: -5px;   
+  }
+
+  .reviewdiv h5{
+      color: #FF7459;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px; 
+    font-weight: 300px; 
+    margin-top: -35px;   
+  }
+
+  .reviewdiv{
+      display: flex;
+  }
+  .reviewflexa{
+      padding: 30px;
+  }
+  .reviewflexs{
+    padding: 30px;
+}
+.reviewflexd{
+    padding: 30px;
+}
+
+.newspan{
+    color: orange;
 }
